@@ -7,8 +7,8 @@ I denna slutexamination ska du skapa en sida åt det fiktiva företaget **DE-VE-
 * Kunna lägga till en film som sparas i din Firebase-databas.
 * Kunna ta bort en film från din Firebase-databas.
 * Kunna se alla filmer på sidan som hämtas från din Firebase-databas.
-* Det ska inte kunna gå och lägga upp en film som redan finns alltså titel får inte förekomma mer än en gång i din databas.
-* Man ska kunna trycka på en film och välja att man sett den.
+* Det ska inte kunna gå och lägga upp en film som redan finns alltså titeln får inte förekomma mer än en gång i din databas.
+* Man ska kunna trycka på en film och välja att man sett den då ska egenskapen `watched` sättas till true i din databas på den filmen.
 
 **Film**
 |Fält|Datatyp|Beskrivning|
