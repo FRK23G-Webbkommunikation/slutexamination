@@ -1,12 +1,15 @@
 # Slutexamination - DE-VE-DE
 
-I denna slutexamination ska du skapa en sida åt det fiktiva företaget **DE-VE-DE** där man kan lägga till filmer man vill se, ta bort filmer man sett och se alla filmer man har sparat. Allt detta ska sedan sparas i Firebase databas.
+I denna slutexamination ska du skapa en sida åt det fiktiva företaget **DE-VE-DE** där man kan lägga till information om filmer man vill se, ta bort information om filmer man sett och se all information om de filmer man har sparat. Allt detta ska sedan sparas i Firebase databas.
+
+**Det är information om en film ska sparas i databasen, inte själva filmen! Ni måste inte heller ha några bilder/posters eller något sådant**
+
 ## Funktionalitet
 
 * Det ska gå och mata in i inputfält: `titel`, `genre`, `utgivningsdatum`.
-* Kunna lägga till en film som sparas i din Firebase-databas.
-* Kunna ta bort en film från din Firebase-databas.
-* Kunna se alla filmer på sidan som hämtas från din Firebase-databas.
+* Kunna lägga till information om en film som sparas i din Firebase-databas.
+* Kunna ta bort information om en film från din Firebase-databas.
+* Kunna se all information om de filmer på sidan som hämtas från din Firebase-databas.
 * Det ska inte kunna gå och lägga upp en film som redan finns alltså titeln får inte förekomma mer än en gång i din databas.
 * Man ska kunna trycka på en film och välja att man sett den då ska egenskapen `watched` sättas till true i din databas på den filmen.
 
