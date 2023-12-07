@@ -2,7 +2,7 @@
 
 I denna slutexamination ska du skapa en sida åt det fiktiva företaget **DE-VE-DE** där man kan lägga till information om filmer man vill se, ta bort information om filmer man sett och se all information om de filmer man har sparat. Allt detta ska sedan sparas i Firebase databas.
 
-**Det är information om en film ska sparas i databasen, inte själva filmen! Ni måste inte heller ha några bilder/posters eller något sådant**
+**Det är information om en film ska sparas i databasen, inte själva filmen! Ni måste inte heller ha några bilder/posters eller något sådant.**
 
 ## Funktionalitet
 
