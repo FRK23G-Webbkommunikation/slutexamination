@@ -1,7 +1,6 @@
 # Slutexamination - DE-VE-DE
 
-I denna slutexamination ska du skapa en sida åt det fiktiva företaget **DE-VE-DE** där man kan lägga till filmer man vill se, ta bort filmer man sett och se alla filmer man har sparat. Allt detta ska sedan sparas i Firebase databas och "hostas" på firebase alltså att din sida blir åtkomlig för alla på internet. 
-
+I denna slutexamination ska du skapa en sida åt det fiktiva företaget **DE-VE-DE** där man kan lägga till filmer man vill se, ta bort filmer man sett och se alla filmer man har sparat. Allt detta ska sedan sparas i Firebase databas.
 ## Funktionalitet
 
 * Det ska gå och mata in i inputfält: `titel`, `genre`, `utgivningsdatum`.
